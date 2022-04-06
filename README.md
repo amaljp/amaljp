@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amaljp
-- 👀 I’m interested in Python and it's magic.
-- 🌱 I’m currently learning Python for data science using: numpy, pandas, xarray, matplotlib matplotlib.. 
+- 👀 I’m interested in Python and it's magics.
+- 🌱 I’m currently improving my skills on data science and python. Also machine learning and processing gis data using python.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
